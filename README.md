@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, [xxalexxxddd][website] 👋
 
-<!--
-**xxalexxxddd/xxalexxxddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Programer.
+- I’m currently working on a minecraft hacked client!
+<br />
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img align="left" alt="xxalexxxddd's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxalexxxddd&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="xxalexxxddd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xxalexxxddd&show_icons=true&hide_border=true&theme=radical" />
+
+
+[website]: https://xxalexxxddd.ct8.pl
+[intellij]: https://www.jetbrains.com/idea/
+[github]: https://www.github.com/xxalexxxddd
