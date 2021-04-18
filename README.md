@@ -1,5 +1,4 @@
-### Hi there, [xxalexxxddd][website] 👋
-
+### Hi there, [xxalexxxddd][website]
 ## I'm a Programer.
 - I’m currently working on a minecraft hacked client!
 <br />
